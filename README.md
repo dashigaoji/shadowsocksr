@@ -69,7 +69,7 @@ pip install -r requestment.txt
 
 #### 编辑节点配置（混淆、协议、限速、IPV6）
 
-    vi user-mysql.json
+    vi user-config.json
 
     protocol 协议，带 _compatible 结尾兼容 原版，直接用原版可以改为 origin
     protocol_param 协议参数，配置了的话，客户端也要一致
